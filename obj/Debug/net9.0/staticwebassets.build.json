@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "Mk1/gaa0GttTECfWJ1seRTiLiy4Yu3r+mHDuUoGNPh8=",
+  "Source": "net-mes-broker",
+  "BasePath": "_content/net-mes-broker",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

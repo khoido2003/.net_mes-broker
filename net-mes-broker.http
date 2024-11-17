@@ -1,0 +1,6 @@
+@net_mes_broker_HostAddress = http://localhost:5258
+
+GET {{net_mes_broker_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
