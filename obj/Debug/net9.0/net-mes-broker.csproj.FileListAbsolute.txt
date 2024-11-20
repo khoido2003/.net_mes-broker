@@ -146,3 +146,4 @@ C:\Users\Lenovo\OneDrive\Desktop\net-mes-broker\obj\Debug\net9.0\refint\net-mes-
 C:\Users\Lenovo\OneDrive\Desktop\net-mes-broker\obj\Debug\net9.0\net-mes-broker.pdb
 C:\Users\Lenovo\OneDrive\Desktop\net-mes-broker\obj\Debug\net9.0\net-mes-broker.genruntimeconfig.cache
 C:\Users\Lenovo\OneDrive\Desktop\net-mes-broker\obj\Debug\net9.0\ref\net-mes-broker.dll
+C:\Users\Lenovo\OneDrive\Desktop\net-mes-broker\obj\Debug\net9.0\net-mes-broker.sourcelink.json
